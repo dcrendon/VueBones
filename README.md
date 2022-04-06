@@ -18,9 +18,9 @@ Lightweight template for setting up Vue apps. Only bones included.
 - [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
 
 ### Usage
-- Run `npx degit dcrendon/VueBones  my-app` to clone without the git history.
-- ```bash
+Run `npx degit dcrendon/VueBones  my-app` to clone without the git history.
+```bash
   cd my-app
   npm install
   npm run dev
-  ```
+```
